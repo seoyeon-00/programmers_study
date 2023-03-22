@@ -1,4 +1,5 @@
 //가장 가까운 같은 글자
+//제출시 오류 떠서 오류 잡고 재업로 하겠습니다.
 
 function solution(s) {
     var answer = [];
