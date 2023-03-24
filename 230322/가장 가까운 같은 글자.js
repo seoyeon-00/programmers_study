@@ -18,4 +18,8 @@ function solution(s) {
     
 
     return answer;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 95a634fbbff8f6476ac569211c9a254654cce30b
